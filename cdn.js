@@ -1,13 +1,11 @@
-const host = window.location.host;
-
 document.write(`<!-- fontawesome icons -->
-<link rel="stylesheet" href="${host}/chatbot-ui/lib/fontawesome-5.13.0/css/all.min.css" />
+<link rel="stylesheet" href="https://bbeltrecdn.vercel.app/chatbot-ui/lib/fontawesome-5.13.0/css/all.min.css" />
 
 <!--bootstrap-->
-<link rel="stylesheet" href="${host}/chatbot-ui/lib/bootstrap-4.6.0-dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://bbeltrecdn.vercel.app/chatbot-ui/lib/bootstrap-4.6.0-dist/css/bootstrap.min.css">
 
 <!--css-->
-<link rel="stylesheet" href="${host}/chatbot-ui/public/css/chatbot3.css">
+<link rel="stylesheet" href="https://bbeltrecdn.vercel.app/chatbot-ui/public/css/chatbot3.css">
 
 
 
@@ -48,11 +46,11 @@ document.write(`<!-- fontawesome icons -->
 
 <!--jquery-->
 <script
-       src="${host}/chatbot-ui/lib/jquery-3.5.1/jquery-3.5.1.slim.min.js"></script>
+       src="https://bbeltrecdn.vercel.app/chatbot-ui/lib/jquery-3.5.1/jquery-3.5.1.slim.min.js"></script>
 
 <!--Propper-->
 <script
-       src="${host}/chatbot-ui/lib/popper/popper.min.js"></script>
+       src="https://bbeltrecdn.vercel.app/chatbot-ui/lib/popper/popper.min.js"></script>
 
 <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
@@ -60,6 +58,6 @@ document.write(`<!-- fontawesome icons -->
 
 <!--bootstrap-->
 <script
-       src="${host}/chatbot-ui/lib/bootstrap-4.6.0-dist/js/bootstrap.min.js"></script>
+       src="https://bbeltrecdn.vercel.app/chatbot-ui/lib/bootstrap-4.6.0-dist/js/bootstrap.min.js"></script>
 <script
-       src="${host}/chatbot-ui/public/js/script3.js"></script>`);
+       src="https://bbeltrecdn.vercel.app/chatbot-ui/public/js/script3.js"></script>`);
