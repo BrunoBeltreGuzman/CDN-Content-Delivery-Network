@@ -1,6 +1,6 @@
-# CDN-Content-Delivery-Network
+# chat-ui
 
-Chatbot CDN (Content Delivery Network)
+chat-ui
 
 **Lreview**
 
